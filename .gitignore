@@ -1,9 +1,20 @@
+# generated files
+gosl
+examples/axon/shaders
+examples/axon/axon
+examples/rand/shaders
+examples/rand/rand
+examples/basic/shaders
+examples/basic/basic
+
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
 *.dll
 *.so
 *.dylib
+*.spv
 
 # Test binary, built with `go test -c`
 *.test
